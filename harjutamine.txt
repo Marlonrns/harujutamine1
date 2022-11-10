@@ -1,0 +1,1 @@
+Githubi saan edaspidi kasutada oma töö protsessi salvestamisel atomis jne.
